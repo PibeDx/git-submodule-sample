@@ -1,0 +1,3 @@
+[submodule "meetup11"]
+	path = meetup11
+	url = https://github.com/Android-Dev-Peru/MeetUp-11.git
